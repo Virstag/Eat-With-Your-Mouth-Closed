@@ -1,0 +1,1 @@
+This mod completely mutes the munching noises when pawns eat something. And that's it.
